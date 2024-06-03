@@ -10,16 +10,16 @@ meio de aulas anteriores com respeito a linguagem JavaScript.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## _Compilando_
+## Compilando
 
-    1. Clone o repositório
+1. Clone o repositório
 
-    ```bash
-    git clone https://github.com/DDMory/CalculadoraPartidasRanqueadas.git
-    ```
+```bash
+git clone https://github.com/DDMory/CalculadoraPartidasRanqueadas.git
+```
 
-    2. Execute o arquivo
+2. Execute o arquivo
 
-    ```bash
-    node hero.js
-    ```
+```bash
+node hero.js
+```
